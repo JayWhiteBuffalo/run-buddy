@@ -66,6 +66,23 @@ section {
     background-position: center;
     position: relative;
 }
+.herotxt {
+    Text-align: right;
+    margin: 5px 0px;
+    display: inline-block;
+    width: 500px;
+    position: relative;
+    right: 25px;
+    color:white
+
+    
+}
+.herotxt h1{
+    color:#fce138;
+    font-size: 50px;
+    font-style: italic ;
+    text-shadow: 2px 2px black;
+}
 .hero-form {
     background-color: #fce138;
     color: #024e76;
